@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sculpted 3D Earth Globe
+* source:	https://sketchfab.com/3d-models/sculpted-3d-earth-globe-9886359dca8e40a593bc0820e295e63f
+* author:	Studio Ochi (https://sketchfab.com/studioochi)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
